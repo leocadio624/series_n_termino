@@ -1,4 +1,4 @@
-# Algoritmo de euclides extendido
+# Ejercicio Series
 Ejercicio de calculo de n terminos de serie de fibonacci, serie triangular y numeros primos
 
 ## Requirements
